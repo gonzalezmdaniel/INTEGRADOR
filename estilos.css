@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    border: solid 5px;
+    border: solid 2px;
 }
 
 #padre{
@@ -16,7 +16,6 @@ body {
   background-color: transparent;
   color: white;
   text-align: right;
-  font-size: 1rem;
 }
 
 #imagenGrande{
@@ -30,6 +29,24 @@ body {
     color: white;
     border-color: white;
 }
+
+img{
+  border: 0;
+  padding: 0;
+}
+
+#charla{
+  color: black;
+
+}
+
+.footer-style {
+  background-color: #0d2f39;
+  color: white;
+  padding: 1%;
+}
+
+
 
 
 
