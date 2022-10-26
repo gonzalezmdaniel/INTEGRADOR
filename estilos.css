@@ -7,6 +7,7 @@ body {
 #padre{
   position: relative;
   background-color: aqua;
+  border: solid 8px;
 
 }
 
@@ -17,6 +18,7 @@ body {
   background-color: transparent;
   color: white;
   text-align: right;
+  font-size: 1em;
 }
 
 #imagenGrande{
@@ -47,6 +49,15 @@ img{
   padding: 1%;
 }
 
+#total{
+  background-color: rgb(205, 242, 248);
+
+}
+
+#btnResumen, #btnBorrar{
+  background-color: rgb(126, 206, 47);
+  border-color: rgb(121, 173, 68);
+}
 
 
 
