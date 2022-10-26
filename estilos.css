@@ -59,6 +59,17 @@ img{
   border-color: rgb(121, 173, 68);
 }
 
+.bordeAzul{
+  border-color: rgb(135, 195, 245);
+}
+
+.bordeNaranja{
+  border-color: rgba(248, 216, 111, 0.788);
+}
+
+.presentar{
+  color: rgba(0, 0, 0, 0.295);
+}
 
 
 
